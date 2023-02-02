@@ -24,7 +24,7 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,php,mysql,git,github,bootstrap,docker,postgresql,mongodb,mysql,sass,cs,azure)
+![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,php,git,github,bootstrap,docker,postgresql,mongodb,mysql,sass,cs,azure)
 
 ### 📈 Minhas Estatísticas
 
