@@ -24,7 +24,7 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github)](https://skillicons.dev)
+[![Minhas Habilidades]([https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git,github,bootstrap,docker,postgresql,mongodb,mysql,sass,cs,azure))](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
@@ -34,8 +34,10 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 💬 Quer me conhecer?
 
-<div>
-  <a href="https://www.linkedin.com/in/limadeacacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:limadeacacio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/limadeacacio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">        
+<a href="https://www.facebook.com/limadeacacio2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://www.github.com/limazia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a><a href="http://www.instagram.com/limadeacacio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/limadeacacio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitch.tv/limazia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
+
+<p>
+<a href = "mailto:limadeacacio@gmail.com">limadeacacio@gmail.com</a>
+</p>
