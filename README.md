@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 21 anos, sou de Campinas, interior de São Paulo e atualmente estou em busca de uma experiência na área.
+    Tenho 21 anos, sou de Amparo, interior de São Paulo e atualmente estou em busca de uma experiência na área.
   </em>
 </p>
 
