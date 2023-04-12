@@ -5,7 +5,7 @@
 </h1>
  
 <p align='center'>
-  Desenvolvedor Back-End
+  Desenvolvedor Fullstack
 </p>
 
 ### 🌻 Sobre mim:
