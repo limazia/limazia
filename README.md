@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá! Meu nome é Acacio de Lima!
+  Olá! Meu nome é Acacio!
   <br/>
   Bem vindo a minha página :)
 </h1>
@@ -16,8 +16,8 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo Typescript.
-- 🚀 Estudante de ADS na Universidade São Francisco (USF)
+- 🌱 Atualmente estou aprendendo Typescript e Azure.
+- 🚀 Formado em ADS na Universidade São Francisco (USF)
 - 📫 Meu email: limadeacacio@gmail.com
 
 ### ⚡ Tecnologias:
