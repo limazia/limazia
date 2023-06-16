@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo Typescript e Azure.
+- 🌱 Atualmente estou aprendendo TypeScript e Azure.
 - 🚀 Formado em ADS na Universidade São Francisco (USF)
 - 📫 Meu email: limadeacacio@gmail.com
 
