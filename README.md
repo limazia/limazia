@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo TypeScript e Azure.
+- 🌱 Atualmente estou aprendendo Microsserviços.
 - 🚀 Formado em ADS na Universidade São Francisco
 - 💼 Meu portfólio: <a href="https://www.limazia.dev/" target="_blank">www.limazia.dev</a>
 - 📫 Meu email: limadeacacio@gmail.com
