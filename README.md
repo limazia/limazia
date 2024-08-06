@@ -1,13 +1,5 @@
-<h1 align='center'>
-  Olá! Meu nome é Acacio!
-  <br/>
-  Bem vindo a minha página :)
-</h1>
+<h1 align='center'>Olá! Meu nome é Acacio!</h1>
  
-<p align='center'>
-  Desenvolvedor Fullstack
-</p>
-
 ### 🌻 Sobre mim:
 
 <p>
@@ -16,16 +8,17 @@
   </em>
 </p>
 
+- 💼 Desenvolvedor Fullstack
 - 🌱 Atualmente estou ampliando meus conhecimentos em TypeScript.
 - 🚀 Formado em ADS na Universidade São Francisco
-- 💼 Meu portfólio: <a href="https://www.limazia.dev/" target="_blank">www.limazia.dev</a>
+- 🌎 Meu portfólio: <a href="https://www.limazia.dev/" target="_blank">www.limazia.dev</a>
 - 📫 Meu email: limadeacacio@gmail.com
 
 ### ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,react,php,cs,html,css,sass,bootstrap,postgresql,mysql,mongodb,sequelize,prisma,jest,git,github,docker,azure)
+![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,html,css,postgresql,mysql,mongodb,prisma,jest,git,github,docker,azure,aws,tailwind)
 
 ### 📈 Minhas Estatísticas
 
