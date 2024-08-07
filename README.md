@@ -31,9 +31,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 <p align="left">
   <a href="https://www.limazia.dev/" target="_blank"><img align="center" src="https://i.imgur.com/xArMOjV.png" alt="Portfólio" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/limadeacacio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Acacio de Lima Filho" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/limadeacacio2/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Acacio de Lima" height="30" width="40" /></a>
   <a href="https://www.instagram.com/limadeacacio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="limadeacacio" height="30" width="40" /></a>
-  <a href="https://twitch.com/limazia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="limazia" height="30" width="40" /></a>
 </p>
 
 <p>
