@@ -1,6 +1,6 @@
-<h1 align='center'>Olá! Meu nome é Acacio!</h1>
+<h1 align='left'>Olá! Meu nome é Acacio! 👋</h1>
  
-### 🌻 Sobre mim:
+### 🌻 Sobre mim
 
 <p>
   <em>
@@ -14,7 +14,7 @@
 - 🌎 Meu portfólio: <a href="https://www.limazia.dev/" target="_blank">www.limazia.dev</a>
 - 📫 Meu email: limadeacacio@gmail.com
 
-### ⚡ Tecnologias:
+### ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
@@ -26,7 +26,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Github Stats](https://github-readme-stats.vercel.app/api?username=limazia&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=limazia&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-💬 Quer me conhecer?
+### 💬 Redes Sociais
 
 <p align="left">
   <a href="https://www.limazia.dev/" target="_blank"><img align="center" src="https://i.imgur.com/xArMOjV.png" alt="Portfólio" height="30" width="30" /></a>
