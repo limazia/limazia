@@ -4,15 +4,15 @@
 
 <p>
   <em>
-    Tenho 22 anos, sou de Amparo, interior de São Paulo e estou em busca de experiência na área.
+    Tenho 23 anos, sou de Amparo, interior de São Paulo, e estou em busca de novas experiências na área.
   </em>
 </p>
 
-- 💼 Desenvolvedor Fullstack
-- 🌱 Atualmente estou ampliando meus conhecimentos em TypeScript.
-- 🚀 Formado em ADS na Universidade São Francisco
+- 💼 Desenvolvedor Full Stack.
+- 🌱 Atualmente estou ampliando meus conhecimentos em Cloud.
+- 🚀 Formado em ADS na Universidade São Francisco.
 - 🌎 Meu portfólio: <a href="https://www.limazia.dev/" target="_blank">www.limazia.dev</a>
-- 📫 Meu email: limadeacacio@gmail.com
+- 📫 Meu email: <a href = "mailto:limadeacacio@gmail.com">limadeacacio@gmail.com</a>
 
 ### ⚡ Tecnologias
 
@@ -35,5 +35,5 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 </p>
 
 <p>
-<a href = "mailto:limadeacacio@gmail.com">limadeacacio@gmail.com</a>
+ <a href = "mailto:limadeacacio@gmail.com">limadeacacio@gmail.com</a>
 </p>
