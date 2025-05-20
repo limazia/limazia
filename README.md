@@ -8,8 +8,8 @@ If you're interested in learning more about my skills and experience, feel free 
   <img alt="skills" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,next,html,css,postgresql,mysql,mongodb,prisma,jest,git,github,docker,azure,aws,tailwind" />
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopcm/joaopcm/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopcm/joaopcm/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/limazia/limazia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/limazia/limazia/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
